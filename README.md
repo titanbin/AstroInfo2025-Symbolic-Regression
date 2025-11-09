@@ -1,4 +1,6 @@
-This rpository contains the work done during the hackaton week of the AstroInfo 2025 school.
+# Glublar cluster analytical radial profile solutions using $\Phi$-SO
+
+This repository contains the work done during the hackaton week of the AstroInfo 2025 school.
 
 This project was centered around the use of the $\Phi$-SO [python package](https://physo.readthedocs.io/) to infer analytical formulae for radial profiles of different globular cluster properties.
 The two properties that were used was the azimuthal velocity profile $v_\phi(r)$ and azimuthal velocity dispersion profile ($\sigma_{v_\phi}(r)$ ).
