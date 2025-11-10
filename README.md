@@ -1,4 +1,4 @@
-# Glublar cluster analytical radial profile solutions using $\Phi$-SO
+# Globular cluster analytical radial profile solutions using $\Phi$-SO
 
 This repository contains the work done during the hackaton week of the AstroInfo 2025 school.
 
